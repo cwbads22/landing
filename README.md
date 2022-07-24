@@ -4,6 +4,7 @@
   <h1>HTML & CSS<h1>
 </div>
 :fire::fire::fire:
+<br>
 Landing page exercise for The Odin Project.
 
 The original layout can be found inside the folder
